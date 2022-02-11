@@ -3,4 +3,4 @@
 [![Velog](https://img.shields.io/badge/Velog-blue?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@sgyeong97)
 ## 2022년
 ### 2월
-+ [11일 금요일](#)
++ [11일 금요일](https://github.com/sgyeong97/TIL/blob/master/2202/220211.md)
