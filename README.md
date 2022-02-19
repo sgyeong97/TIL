@@ -3,6 +3,7 @@
 [![Velog](https://img.shields.io/badge/Velog-blue?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@sgyeong97)
 ## 2022년
 ### 2월
++ [19일 토요일](https://github.com/sgyeong97/TIL/blob/master/2202/220219.md)
 + [18일 금요일](https://github.com/sgyeong97/TIL/blob/master/2202/220218.md)
 + [17일 목요일](https://github.com/sgyeong97/TIL/blob/master/2202/220217.md)
 + [16일 수요일](https://github.com/sgyeong97/TIL/blob/master/2202/220216.md)
